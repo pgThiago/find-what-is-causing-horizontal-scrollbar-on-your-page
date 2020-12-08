@@ -17,4 +17,4 @@ for (; i < all.length; i++) {
 
 ---
 
-# [Link source](https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom)
+# Reference: [StackOverflow](https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom)
